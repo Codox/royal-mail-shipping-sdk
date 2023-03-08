@@ -1,5 +1,7 @@
 /**
  * Obtain token from the server. Used for authentication in all other requests
+ *
+ * https://developer.royalmail.net/node/1877912 POST /token
  */
 export interface POSTTokenRequest {
     headers: {
