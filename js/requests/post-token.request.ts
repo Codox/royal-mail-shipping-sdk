@@ -1,3 +1,6 @@
+/**
+ * Obtain token from the server. Used for authentication in all other requests
+ */
 export interface POSTTokenRequest {
     headers: {
         "X-IBM-Client-Id": string;
