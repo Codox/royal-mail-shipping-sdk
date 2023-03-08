@@ -1,0 +1,11 @@
+{
+  "name": "royal-mail-shipping-sdk-js",
+  "version": "1.0.0",
+  "description": "Royal Mail Shipping SDK - JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rexchoppers",
+  "license": "GPL-3.0-or-later"
+}
